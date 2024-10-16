@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @SpringBootApplication
 public class SpringDataApplication {
-	@GetMapping
+	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataApplication.class, args);
 	}
