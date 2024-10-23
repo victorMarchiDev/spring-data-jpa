@@ -1,6 +1,6 @@
 # 🚀 Projeto Web Services com Spring 🌐
 
-Bem-vindo ao repositório do projeto de Web Services! Este projeto foi desenvolvido utilizando **Spring**, **JPA**, **banco de dados H2**, **servidor Apache Tomcat** e **Maven** como gerenciador de dependências. O objetivo é implementar operações **CRUD** (Criar, Ler, Atualizar, Deletar) e tratamento de exceções. 💻✨
+Bem-vindo ao repositório do projeto de Web Services! Este projeto se trata de uma API que foi desenvolvida utilizando **Spring**, **JPA**, **banco de dados H2**, **servidor Apache Tomcat** e **Maven** como gerenciador de dependências. O objetivo é implementar operações **CRUD** (Criar, Ler, Atualizar, Deletar) e tratamento de exceções. 💻✨
 
 ## 🔧 Tecnologias Utilizadas
 
