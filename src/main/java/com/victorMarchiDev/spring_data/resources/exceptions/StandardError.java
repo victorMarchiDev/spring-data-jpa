@@ -8,7 +8,7 @@ import java.time.Instant;
 public class StandardError extends RuntimeException implements Serializable {
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT")
     private Instant timestamp;
-    
+
     private Integer status;
     private String error;
     private String message;
